@@ -2,7 +2,7 @@
 /*
 Plugin Name: Simple Gallery Lightbox
 Description: Just set your native WP gallery to link="none" and activate this plugin, and a lightbox will be shown on image click.
-Version: 1.0
+Version: 1.1
 Author: Alex Ruco
 */
 
